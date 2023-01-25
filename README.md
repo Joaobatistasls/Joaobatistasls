@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Batista 👋
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como Desenvolvedor Full Stack
 - 🌱 Constatemente aprendendo coisas novas
 - 💬 Contate-me no email: joaobatistaoficial44@gmail.com
 
