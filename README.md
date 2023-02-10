@@ -2,7 +2,8 @@
 
 
 - 🔭 Hoje trabalho como Desenvolvedor Full Stack
-- 🌱 Constatemente aprendendo coisas novas
+- 👀 Sou interessado em muitas coisas por aqui, busco conhecer pessoas e aprender, estou constatemente aprendendo coisas novas.
+- 🌱  Estou atualmente participando do projeto Desenvolve 2023 do Grupo Boticário na Alura.
 - 💬 Contate-me no email: joaobatistaoficial44@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaosantossks/)
