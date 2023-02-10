@@ -1,8 +1,8 @@
 ### Olá! Eu sou o João Batista 👋
 
 
-- 🔭 Hoje trabalho como Desenvolvedor Full Stack
-- 👀 Sou interessado em muitas coisas por aqui, busco conhecer pessoas e aprender, estou constatemente aprendendo coisas novas.
+- 🔭 Hoje trabalho como Desenvolvedor Full Stack.
+- 👀 Sou interessado em muitas coisas por aqui, busco conhecer pessoas e aprender.
 - 🌱  Estou atualmente participando do projeto Desenvolve 2023 do Grupo Boticário na Alura.
 - 💬 Contate-me no email: joaobatistaoficial44@gmail.com
 
