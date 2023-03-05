@@ -2,7 +2,7 @@
 
 
 - 👀 Sou interessado em muitas coisas por aqui, busco conhecer pessoas e aprender.
-- 🌱  Estou atualmente participando do projeto Desenvolve 2023 do Grupo Boticário na Alura.
+- 🌱  Estou atualmente estudando Sistemas de Informação.
 - 💬 Contate-me no email: joaobatistaoficial44@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaosantossks/)
