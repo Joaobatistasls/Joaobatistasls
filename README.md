@@ -6,7 +6,7 @@
   <img align="right" height="300em" src="https://user-images.githubusercontent.com/109250906/225495663-a2fadffd-2d67-4241-b5f5-4e29f913f989.png"/> 
 </div>
 
-- :telescope: Atualmente trabalho de Suporte Técnico, estou tentando minha transição de carreira.
+- :telescope: Atualmente trabalho de Suporte Técnico, estou em transição de carreira.
 - :seedling: Atualmente estou aprendendo Back-end Python e cursando Sistemas da Informação.
 - :mailbox_with_mail: Como entra em contato comigo: joaobatistaoficial44@.gmail.com
 - :satisfied: Pronomes: (Ele / Dele)
