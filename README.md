@@ -7,7 +7,7 @@
 </div>
 
 - :telescope: Atualmente trabalho de Suporte Técnico, estou em transição de carreira.
-- :seedling: Atualmente estou aprendendo Back-end Python.
+- :seedling: Atualmente estou estudando para me tornar Desenvolvedor Full Stack Python na Ebac.
 - :mailbox_with_mail: Como entra em contato comigo: joaobatistaoficial44@gmail.com
 - :satisfied: Pronomes: (Ele / Dele)
 
